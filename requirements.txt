@@ -8,3 +8,4 @@ tensorflow<2.11
 torch==1.10.0
 torchvision==0.11.1
 torchaudio==0.10.0
+#tensorflow_probability | Needs tf>=2.16 to work
